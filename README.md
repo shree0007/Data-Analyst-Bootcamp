@@ -7,11 +7,14 @@ Two projects were completed in related to SQL. The first project focused on `dat
 
 ## Excel
 For my Excel project, I created a dashboard displaying bike sales data, as shown below. The dashboard includes three different charts that dynamically update based on the slicer filters located on the left side.
-![alt text](<Assets/bike_sales_dashboard.png>)
+
+![Excel dashboard](<Assets/bike_sales_dashboard.png>)
 
 
 ## Tableau
+AirBnB data from Kaggle was used in this project. Three tables from the dataset were joined using an Inner Join, followed by detailed visualizations, and an interactive dashboard was created.
 
+![Tableau dashboard](<Assets/tableau_airbnb.png>)
 
 ## Power BI
 
