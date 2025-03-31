@@ -12,11 +12,13 @@ For my Excel project, I created a dashboard displaying bike sales data, as shown
 
 
 ## Tableau
-AirBnB data from Kaggle was used in this project. Three tables from the dataset were joined using an Inner Join, followed by detailed visualizations, and an interactive dashboard was created.
+AirBnB data from Kaggle was used in this project. Three tables from the dataset were joined using an Inner Join, followed by detailed visualizations, and an interactive dashboard was created. View this dashboard live on [Tableau Public](https://public.tableau.com/app/profile/shree.ram.bhusal/viz/AirBnBFullProject_17412840279140/Dashboard1).
 
 ![Tableau dashboard](<Assets/tableau_airbnb.png>)
 
 ## Power BI
+In this project, a real dataset about data professionals from Alex The Analyst was utilized. The raw data was first transformed using Power Query, followed by the creation of visualizations and an interactive dashboard.
 
+![Tableau dashboard](<Assets/powerbi_dataprofessionals.PNG>)
 
 ## Python
